@@ -1,0 +1,9 @@
+C:\tdbots\techdays\ConsoleApplication2\Antlrtest\bin\Debug\Antlrtest.exe.config
+C:\tdbots\techdays\ConsoleApplication2\Antlrtest\bin\Debug\antlr-4.6-complete.jar
+C:\tdbots\techdays\ConsoleApplication2\Antlrtest\bin\Debug\Hello.g4
+C:\tdbots\techdays\ConsoleApplication2\Antlrtest\bin\Debug\Antlrtest.exe
+C:\tdbots\techdays\ConsoleApplication2\Antlrtest\bin\Debug\Antlrtest.pdb
+C:\tdbots\techdays\ConsoleApplication2\Antlrtest\obj\Debug\Antlrtest.exe
+C:\tdbots\techdays\ConsoleApplication2\Antlrtest\obj\Debug\Antlrtest.pdb
+C:\tdbots\techdays\ConsoleApplication2\Antlrtest\bin\Debug\Antlr4.Runtime.Standard.dll
+C:\tdbots\techdays\ConsoleApplication2\Antlrtest\obj\Debug\Antlrtest.csprojResolveAssemblyReference.cache
